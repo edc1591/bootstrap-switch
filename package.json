@@ -2,9 +2,9 @@
   "name": "angular2-bootstrap-switch",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ovsleep/bootstrap-switch.git"
+    "url": "git+https://github.com/edc1591/bootstrap-switch.git"
   },
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "",
   "main": "index.js",
   "scripts": {
